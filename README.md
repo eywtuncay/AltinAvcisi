@@ -1,3 +1,4 @@
 # Altın Avcısı
-![Ekran Alıntısı](https://github.com/eywtuncay/AltinAvcisi/assets/90053356/3b774411-ca96-4657-abe1-c83f67c4843c)
+![Ekran Alıntısı](https://github.com/eywtuncay/AltinAvcisi_Oyunu/assets/90053356/d233e8f9-d1b6-4d90-8838-31c29b38fb09)
+
 
